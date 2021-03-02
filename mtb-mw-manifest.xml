@@ -1,0 +1,675 @@
+<middleware>
+  <middleware>
+    <name>psoc6pdl</name>
+    <id>psoc6pdl</id>
+    <uri>https://github.com/cymodif/psoc6pdl</uri>
+    <desc>The PSoC 6 Peripheral Driver Library (PDL) integrates device header files, startup code, and low-level peripheral drivers into a single package.</desc>
+    <category>PSoC 6 Base Libraries</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.6.1 release</num>
+        <commit>release-v1.6.1</commit>
+        <desc>1.6.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.6.0 release</num>
+        <commit>release-v1.6.0</commit>
+        <desc>1.6.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.5.2 release</num>
+        <commit>release-v1.5.2</commit>
+        <desc>1.5.2 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.5.1 release</num>
+        <commit>release-v1.5.1</commit>
+        <desc>1.5.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.5.0 release</num>
+        <commit>release-v1.5.0</commit>
+        <desc>1.5.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.4.1 release</num>
+        <commit>release-v1.4.1</commit>
+        <desc>1.4.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.4.0 release</num>
+        <commit>release-v1.4.0</commit>
+        <desc>1.4.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.3.1 release</num>
+        <commit>release-v1.3.1</commit>
+        <desc>1.3.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.3.0 release</num>
+        <commit>release-v1.3.0</commit>
+        <desc>1.3.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>psoc6cm0p</name>
+    <id>psoc6cm0p</id>
+    <uri>https://github.com/cymodif/psoc6cm0p</uri>
+    <desc>PSoC 6 Cortex M0+ prebuilt images enabling flash write services and BLE event handling.</desc>
+    <category>PSoC 6 Base Libraries</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>2.1.0 release</num>
+        <commit>release-v2.1.0</commit>
+        <desc>2.1.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>2.0.1 release</num>
+        <commit>release-v2.0.1</commit>
+        <desc>2.0.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.2.1 release</num>
+        <commit>release-v1.2.1</commit>
+        <desc>1.2.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.2.0 release</num>
+        <commit>release-v1.2.0</commit>
+        <desc>1.2.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.2 release</num>
+        <commit>release-v1.1.2</commit>
+        <desc>1.1.2 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.1 release</num>
+        <commit>release-v1.1.1</commit>
+        <desc>1.1.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>psoc6hal</name>
+    <id>psoc6hal</id>
+    <uri>https://github.com/cymodif/psoc6hal</uri>
+    <desc>PSoC 6 Hardware Abstraction Layer package, provides a set of APIs to initialize, configure, and use the PSoC 6 MCU resources using the Cypress defined Hardware Abstraction Layer.</desc>
+    <category>PSoC 6 Base Libraries</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.4.0 release</num>
+        <commit>release-v1.4.0</commit>
+        <desc>1.4.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.3.0 release</num>
+        <commit>release-v1.3.0</commit>
+        <desc>1.3.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.2.1 release</num>
+        <commit>release-v1.2.1</commit>
+        <desc>1.2.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.2.0 release</num>
+        <commit>release-v1.2.0</commit>
+        <desc>1.2.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.1.1 release</num>
+        <commit>release-v1.1.1</commit>
+        <desc>1.1.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>psoc6make</name>
+    <id>psoc6make</id>
+    <uri>https://github.com/cymodif/psoc6make</uri>
+    <desc>PSoC 6 Base Build Library.</desc>
+    <category>PSoC 6 Base Libraries</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.5.1 release</num>
+        <commit>release-v1.5.1</commit>
+        <desc>1.5.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.5.0 release</num>
+        <commit>release-v1.5.0</commit>
+        <desc>1.5.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.4.2 release</num>
+        <commit>release-v1.4.2</commit>
+        <desc>1.4.2 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.4.1 release</num>
+        <commit>release-v1.4.1</commit>
+        <desc>1.4.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.4.0 release</num>
+        <commit>release-v1.4.0</commit>
+        <desc>1.4.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.3.1 release</num>
+        <commit>release-v1.3.1</commit>
+        <desc>1.3.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.3.0 release</num>
+        <commit>release-v1.3.0</commit>
+        <desc>1.3.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.2.1 release</num>
+        <commit>release-v1.2.1</commit>
+        <desc>1.2.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.2.0 release</num>
+        <commit>release-v1.2.0</commit>
+        <desc>1.2.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
+        <desc>1.0.1 release</desc>
+      </version>
+      <version flow_version="1.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>core-lib</name>
+    <id>core-lib</id>
+    <uri>https://github.com/cymodif/core-lib</uri>
+    <desc>The Core Library provides device agnostic utilities that all middleware can rely on. This includes a generic result type and some common utility functions.</desc>
+    <category>Base Libraries</category>
+    <req_capabilities>mcu_gp</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.4 release</num>
+        <commit>release-v1.1.4</commit>
+        <desc>1.1.4 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.3 release</num>
+        <commit>release-v1.1.3</commit>
+        <desc>1.1.3 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.2 release</num>
+        <commit>release-v1.1.2</commit>
+        <desc>1.1.2 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.1 release</num>
+        <commit>release-v1.1.1</commit>
+        <desc>1.1.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
+        <desc>1.0.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>retarget-io</name>
+    <id>retarget-io</id>
+    <uri>https://github.com/cymodif/retarget-io</uri>
+    <desc>The Retarget IO library provides APIs for transmitting messages to or from the board via standard printf/scanf functions using a UART connection which is generally connected to a host machine.</desc>
+    <category>Board Utils</category>
+    <req_capabilities>mcu_gp</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.1 release</num>
+        <commit>release-v1.1.1</commit>
+        <desc>1.1.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>rgb-led</name>
+    <id>rbg-led</id>
+    <uri>https://github.com/cymodif/rgb-led</uri>
+    <desc>The RGB LED library provides APIs for controlling the color and intensity the RGB LED on the Cypress kits.</desc>
+    <category>Board Utils</category>
+    <req_capabilities>mcu_gp</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.1 release</num>
+        <commit>release-v1.1.1</commit>
+        <desc>1.1.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>udb-sdio-whd</name>
+    <id>udb-sdio-whd</id>
+    <uri>https://github.com/cymodif/udb-sdio-whd</uri>
+    <desc>The UDB SDIO for WHD library provides a UDB based SDIO interface that allows for communicating between a PSoC 6 and a Cypress wireless device such as the CYW4343W, CYW43438, or CYW43012.</desc>
+    <category>Board Utils</category>
+    <req_capabilities>psoc6 cyw43xxx udb</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.1 release</num>
+        <commit>release-v1.1.1</commit>
+        <desc>1.1.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
+        <desc>1.0.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>capsense</name>
+    <id>capsense</id>
+    <uri>https://github.com/cymodif/capsense</uri>
+    <desc>Capacitive sensing solution (CapSense) enabling a variety of applications such as touch, gesture and proximity detection.</desc>
+    <category>MCU Middleware</category>
+    <req_capabilities>capsense</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>2.10.0 release</num>
+        <commit>release-v2.10.0</commit>
+        <desc>2.10.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>bluetooth-freertos</name>
+    <id>bluetooth-freertos</id>
+    <uri>https://github.com/cymodif/bluetooth-freertos</uri>
+    <desc>The Bluetooth freertos Library is an embedded BLE Host stack that provides APIs to interact with Cypress BT chips. It also contains implementations of the Adaption Layer for FreeRTOS and PSoC6 HAL.</desc>
+    <category>BT Middleware libraries</category>
+    <req_capabilities>psoc6 bt</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.3.0 release</num>
+        <commit>release-v1.3.0</commit>
+        <desc>1.3.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.2.0 release</num>
+        <commit>release-v1.2.0</commit>
+        <desc>1.2.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>clib-support</name>
+    <id>clib-support</id>
+    <uri>https://github.com/cymodif/clib-support</uri>
+    <desc><![CDATA[
+    The CLib Support Library provides the necessary hooks to make C library functions such as malloc and free thread safe. This implementation is specific to FreeRTOS.
+    <br><br><b>Note:</b>
+    FREERTOS flags configUSE_MUTEXES, configUSE_RECURSIVE_MUTEXES, and configSUPPORT_STATIC_ALLOCATION must be enabled
+    ]]></desc>
+    <category>MCU Middleware</category>
+    <req_capabilities>mcu_gp</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.2 release</num>
+        <commit>release-v1.0.2</commit>
+        <desc>1.0.2 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
+        <desc>1.0.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>btstack</name>
+    <id>btstack</id>
+    <uri>https://github.com/cymodif/btstack</uri>
+    <desc>BTSTACK is Cypress's Bluetooth Host Protocol Stack implementation. The stack is optimized to work on Cypress Bluetooth controllers. The BTSTACK supports Bluetooth BR/EDR and BLE core protocols. The stack is available as libraries built for CM3 and CM4 ARM (TM) cores using ARM, GCC and IAR tool-chains. Further there are two build variants of stack libraries, LE only and Dual-mode. Applications that use LE can take advantage of reduced size of LE only library and build LE peripheral or even central applications. Dual-mode library supports both LE and BR/EDER protocols.</desc>
+    <category>BT Middleware libraries</category>
+    <req_capabilities>psoc6 bt</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.5.0 release</num>
+        <commit>release-v1.5.0</commit>
+        <desc>1.5.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.4.0 release</num>
+        <commit>release-v1.4.0</commit>
+        <desc>1.4.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.3.0 release</num>
+        <commit>release-v1.3.0</commit>
+        <desc>1.3.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>emeeprom</name>
+    <id>emeeprom</id>
+    <uri>https://github.com/cymodif/emeeprom</uri>
+    <desc>Emulated EEPROM enables on-chip flash memory to be used for permanent data storage with support for wear leveling and redundant copy features.</desc>
+    <category>PSoC 6 Middleware</category>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+        <desc>Latest 2.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+        <desc>2.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>freertos</name>
+    <id>freertos</id>
+    <uri>https://github.com/cymodif/freertos</uri>
+    <desc>FreeRTOS kernel, distributed as standard C source files with configuration header file.</desc>
+    <category>MCU Middleware</category>
+    <req_capabilities>mcu_gp</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 10.X release</num>
+        <commit>latest-v10.X</commit>
+        <desc>Latest 10.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>10.3.1 release</num>
+        <commit>release-v10.3.1</commit>
+        <desc>10.3.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>10.0.1 release</num>
+        <commit>release-v10.0.1</commit>
+        <desc>10.0.1 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>abstraction-rtos</name>
+    <id>abstraction-rtos</id>
+    <uri>https://github.com/cymodif/abstraction-rtos</uri>
+    <desc><![CDATA[
+    The RTOS Abstraction Library provides a generic API that allows Cypress middleware to be written in an RTOS agnostic manner. It also contains implementations of the Abstraction Layer for FreeRTOS, CMSIS RTOS, and ThreadX.
+    <br><br><b>Note:</b>
+    This library has specific requirements on the underlying RTOS configuration. See the Readme.md file for details.
+    ]]></desc>
+    <category>Abstraction Layers</category>
+    <req_capabilities>mcu_gp</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.3.0 release</num>
+        <commit>release-v1.3.0</commit>
+        <desc>1.3.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.2.2 release</num>
+        <commit>release-v1.2.2</commit>
+        <desc>1.2.2 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.2.1 release</num>
+        <commit>release-v1.2.1</commit>
+        <desc>1.2.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.2.0 release</num>
+        <commit>release-v1.2.0</commit>
+        <desc>1.2.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
+        <desc>1.0.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>whd-bsp-integration</name>
+    <id>whd-bsp-integration</id>
+    <uri>https://github.com/cymodif/whd-bsp-integration</uri>
+    <desc>The WHD + BSP Integration library provides some convenience functions for connecting the WiFi Host Driver (WHD) library to a Board Support Package (BSP) that includes a WLAN chip.</desc>
+    <category>Board Utils</category>
+    <req_capabilities>psoc6 cyw43xxx</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+        <desc>Latest 1.X release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.1 release</num>
+        <commit>release-v1.1.1</commit>
+        <desc>1.1.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+        <desc>1.1.0 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.2 release</num>
+        <commit>release-v1.0.2</commit>
+        <desc>1.0.2 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
+        <desc>1.0.1 release</desc>
+      </version>
+      <version flow_version="1.0,2.0">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+        <desc>1.0.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+</middleware>
