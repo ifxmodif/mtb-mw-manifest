@@ -1,0 +1,6 @@
+<substitutions>
+  <substitution default="true">
+    <pattern>(http|https)\:\/\/github\.com\/cymodif\/</pattern>
+    <replacement>https://github.com/ifxmodif/</replacement>
+  </substitution>
+</substitutions>
